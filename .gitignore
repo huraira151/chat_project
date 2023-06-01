@@ -1,0 +1,11 @@
+*.pyc
+env/
+.terraform
+.env
+staticfiles/
+postgres-data/
+db.sqlite3
+categories/
+employee/
+profile_image/
+../media/
